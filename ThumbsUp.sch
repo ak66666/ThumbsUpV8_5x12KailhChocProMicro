@@ -2957,7 +2957,6 @@ Connection ~ 2150 10850
 Connection ~ 2050 10850
 Wire Wire Line
 	2050 10850 2150 10850
-NoConn ~ 1850 10850
 Wire Wire Line
 	2150 11400 2050 11400
 Connection ~ 2150 11400
@@ -3117,13 +3116,6 @@ Connection ~ 2350 1450
 Connection ~ 3600 1200
 Wire Wire Line
 	3600 1200 3600 1100
-Wire Wire Line
-	1850 11400 1500 11400
-Wire Wire Line
-	1500 11400 1500 9450
-Wire Wire Line
-	1500 9450 2650 9450
-Connection ~ 2650 9450
 Text GLabel 4300 2850 2    50   Input ~ 0
 ROWR0
 Text GLabel 4300 2950 2    50   Input ~ 0
@@ -3193,4 +3185,10 @@ F 3 "~" H 10100 10100 50  0001 C CNN
 	1    10100 10100
 	0    -1   1    0   
 $EndComp
+Wire Wire Line
+	1850 10850 1950 10850
+Connection ~ 1950 10850
+Wire Wire Line
+	1850 11400 1950 11400
+Connection ~ 1950 11400
 $EndSCHEMATC
