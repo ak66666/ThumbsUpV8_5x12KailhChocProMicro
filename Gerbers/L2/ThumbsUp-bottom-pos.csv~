@@ -1,4 +1,4 @@
-Ref,Val,Package,Mid X,Mid Y,Rotation,Layer
+Ref,Val,Package,PosX,PosY,Rot,Side
 "D1","D_Small","D_SOD-123",124.770000,-131.970000,90.000000,bottom
 "D2","D_Small","D_SOD-123",127.370000,-131.970000,90.000000,bottom
 "D3","D_Small","D_SOD-123",129.970000,-131.970000,90.000000,bottom
