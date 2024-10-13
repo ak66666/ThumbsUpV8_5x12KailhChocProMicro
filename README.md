@@ -1,8 +1,15 @@
 # ThumbsUp! v8 5x12 Keyboard for Kailh Choc and Gateron Low Profile switches dirven by ProMicro and pin-compatibles
 
-Multilevel 58 Key Ergonomic Keyboard.
+Multilevel 58 Key Ergonomic Contoured Mechanical Keyboard.
 
 The board uses Kailh Choc and Gateron Low Profile Switches with hot-swap sockets.
+
+ProMicro or pin-compatible MCUs are supported, including Raspberry RP2040 with [QMK, see this fork.](https://github.com/ak66666/qmk_firmware/tree/thumbsup_20240523/keyboards/thumbsup)
+
+Supports Proglide Cirque touchpad (up to 40mm diameter).
+
+Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://github.com/ak66666/zmk-config/tree/master)
+
 
 //TODO Add picture descriptions
 
