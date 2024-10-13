@@ -7,7 +7,9 @@ The board uses Kailh Choc and Gateron Low Profile Switches with hot-swap sockets
 //TODO Add picture descriptions
 
 # Photos
-Blue PCBs - v8 with Kailh Choc switches, PCBs are 1.6mm thick
+
+Black PCBs - v8 with Kailh Choc switches, PCBs are 1.6mm thick
+
 Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm, GLP switch pins are too short and have poor contact with the sockets in 1.6mm PCBs.
 
 ![v8 with Kailh Choc Blue switches](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_221425170.jpg)
