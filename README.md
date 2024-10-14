@@ -19,6 +19,7 @@ Black PCBs - v8 with Kailh Choc switches, PCBs are 1.6mm thick
 
 Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm, GLP switch pins are too short and have poor contact with the sockets in 1.6mm PCBs.
 
+v8 with Kailh Choc Blue switches
 ![v8 with Kailh Choc Blue switches](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_221425170.jpg)
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_221432583_HDR.jpg)
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_221436578_HDR.jpg)
@@ -31,7 +32,9 @@ Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm, GLP sw
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223240276_HDR.jpg)
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223259794_HDR.jpg)
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223320200.jpg)
+ThumbsUp! v2 and v8
 ![ThumbsUp! v2 and v8](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223715378.jpg)
+ThumbsUp! v8 and v5
 ![ThumbsUp! v8 and v5](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223804863.jpg)
 ![](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_223839958_HDR.jpg)
 ![ThumbsUp! v8b in progress](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8b_20231113_205455661.jpg)
