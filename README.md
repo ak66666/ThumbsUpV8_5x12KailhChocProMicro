@@ -17,7 +17,7 @@ Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://gi
 
 Black PCBs - v8 with Kailh Choc switches, PCBs are 1.6mm thick
 
-Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm, GLP switch pins are too short and have poor contact with the sockets in 1.6mm PCBs.
+Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm, GLP switch pins are too short (or rather are tapered at the ends too much), what creates poor/unstable contact with the sockets in 1.6mm PCBs.
 
 v8 with Kailh Choc Blue switches
 ![v8 with Kailh Choc Blue switches](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/v8__20231018_221425170.jpg)
