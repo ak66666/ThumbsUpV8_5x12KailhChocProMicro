@@ -1,38 +1,5 @@
 # ThumbsUp! v8 5x12 Keyboard for Kailh Choc and Gateron Low Profile switches dirven by ProMicro and pin-compatibles
 
-Multilevel 58 Key Unibody Contoured Ergonomic Keyboard.
-3-key Thumb Cluster.
-
-ProMicro pin-compatible MCUs: Atmega32U4, RP2040, and nice!nano (original and clones)
-Supports Proglide Cirque touchpad (up to 40mm diameter).
-Can be made wireless with nice!nano v2 and a battery, [ZMK firmware.](https://github.com/ak66666/zmk-config/tree/master)
-
-The board uses either Kailh Choc or Gateron Low Profile switches in hot-swap sockets.
-
-For Gateron Low Profile switches the PCBs must be made thinner (1.2mm) than usual for Kailh Choc/MX switches (1.6mm).
-Pins of those swithes slightly shorter and sharper, so they don't have good contact with sockets in the 1.6mm PCBs.
-That makes the board more flexible, which may require a case for it (which I haven't created yet.)
-
-Kailh Choc Switches
-![Main view](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/IMG_20231018_223225328_HDR.jpg)
-
-Gateron Low Profile Switches
-![Gateron Low Profile Switches](https://github.com/ak66666/ThumbsUpV8_5x12KailhChocProMicro/blob/main/Photos/IMG_20231113_210631583.jpg)
-
-Other pictures in Photos folder.
-Black PCBs - v8 with Kailh Choc switches, PCBs are 1.6mm thick
-Red PCBs - v8b with Gateron Low Profile switches, PCB thickness is 1.2mm.
-
-# Firmware
-
-Please refer to this article:
-https://thumbsupkeyboards.blogspot.com/2024/02/source-files-and-default-firmware.html
-
-
-
-=======
-# ThumbsUp! v8 5x12 Keyboard for Kailh Choc and Gateron Low Profile switches dirven by ProMicro and pin-compatibles
-
 Multilevel 58 Key Ergonomic Contoured Mechanical Keyboard.
 
 The board uses Kailh Choc and Gateron Low Profile Switches with hot-swap sockets.
